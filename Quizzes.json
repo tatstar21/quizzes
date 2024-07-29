@@ -1,0 +1,120 @@
+{
+  "QuizName": "Биология",
+  "Questions": [
+    {
+      "QuestionText": "Клетка это:",
+      "Answers": [
+        {
+          "Letter": "a",
+          "IsCorrect": true,
+          "AnswerText": "Мельчайшая частица всего живого"
+        },
+        {
+          "Letter": "b",
+          "IsCorrect": false,
+          "AnswerText": "Мельчайшая частица живого растения"
+        },
+        {
+          "Letter": "c",
+          "IsCorrect": false,
+          "AnswerText": "Часть растения"
+        }
+      ]
+    },
+    {
+      "QuestionText": "Насекомое, которое может быть отнесено к группе паразитов это",
+      "Answers": [
+        {
+          "Letter": "a",
+          "IsCorrect": false,
+          "AnswerText": "жук-плавунец"
+        },
+        {
+          "Letter": "b",
+          "IsCorrect": false,
+          "AnswerText": "белянковый наездник"
+        },
+        {
+          "Letter": "c",
+          "IsCorrect": false,
+          "AnswerText": "медоносная пчела"
+        },
+        {
+          "Letter": "d",
+          "IsCorrect": true,
+          "AnswerText": "майский жук"
+        }
+      ]
+    },
+    {
+      "QuestionText": "Из какого плесневого гриба изготавливают антибактериальные препараты:",
+      "Answers": [
+        {
+          "Letter": "a",
+          "IsCorrect": false,
+          "AnswerText": "Сторипомицин"
+        },
+        {
+          "Letter": "b",
+          "IsCorrect": true,
+          "AnswerText": "Пеницилл"
+        },
+        {
+          "Letter": "c",
+          "IsCorrect": false,
+          "AnswerText": "Гистомицин"
+        },
+        {
+          "Letter": "d",
+          "IsCorrect": false,
+          "AnswerText": "Фузариум"
+        }
+      ]
+    },
+    {
+      "QuestionText": "Какая наука занимается изучением грибов?",
+      "Answers": [
+        {
+          "Letter": "a",
+          "IsCorrect": false,
+          "AnswerText": "Малакология"
+        },
+        {
+          "Letter": "b",
+          "IsCorrect": false,
+          "AnswerText": "Альгология"
+        },
+        {
+          "Letter": "c",
+          "IsCorrect": false,
+          "AnswerText": "Бриология"
+        },
+        {
+          "Letter": "d",
+          "IsCorrect": true,
+          "AnswerText": "Микология"
+        }
+      ]
+    },
+    {
+      "QuestionText": " Дыхательная система птиц состоит из:",
+      "Answers": [
+        {
+          "Letter": "a",
+          "IsCorrect": true,
+          "AnswerText": "легких"
+        },
+        {
+          "Letter": "b",
+          "IsCorrect": true,
+          "AnswerText": "воздушных мешков"
+        },
+        {
+          "Letter": "c",
+          "IsCorrect": true,
+          "AnswerText": "трахеи"
+        }
+      ]
+    }
+  ]
+}
